@@ -12,3 +12,7 @@ Discover the roadmap to success for an automotive industry trailblazer ready to 
     - **Part 2 (Power BI):** Elevate your insights to new heights with the dynamic capabilities of Power BI. Transform data into actionable intelligence that propels your business forward.
 
 It's time to harness the power of data, make informed decisions, and steer your automotive company towards unprecedented success in uncharted markets.
+
+Fist Page of Power BI visualisation
+<br/>
+<img src'image.png' alt='firstPage'/>
