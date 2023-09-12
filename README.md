@@ -15,4 +15,4 @@ It's time to harness the power of data, make informed decisions, and steer your 
 
 Fist Page of Power BI visualisation
 <br/>
-<img src'image.png' alt='firstPage'/>
+<img src='image.png' alt='firstPage'/>
